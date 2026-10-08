@@ -1,0 +1,2 @@
+# Replace only in local/private runtime configuration.
+OWNER_EMAIL=owner@example.invalid

@@ -1,5 +1,7 @@
 # dots 少数派ゲーム
 
+[ソースコード](https://github.com/masahide/minority-dots) · 紹介Siteの末尾にも同じリンクを掲載しています。
+
 QRで参加して二択に投票し、締切後に少ない方を選んだ人が勝つ匿名ゲーム。同数は引き分けです。Sites上の共有D1データベースが秒数・票数・勝敗を確定します。
 
 2026年10月8日の [Codex Community Meetup – Tokyo: DevDay Recap & Workshop](https://luma.com/538veir3) のワークショップをきっかけに制作。アイデアをdotsに伝え、実装・公開まで任せました。#DevDayCommunity

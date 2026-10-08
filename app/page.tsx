@@ -17,6 +17,6 @@ export default function Home() {
       <article><span className="intro-tag">組み合わせた技術</span><h2>Sites × MCP</h2><p><strong>Sites</strong>でWebゲームを公開。<strong>MCP</strong>はdotsがゲームを操作する窓口。<strong>Codex</strong>は、制作時にdotsが内部で使用した開発技術です。</p></article>
       <div className="intro-responsibility"><p><strong>秒数・票数・勝敗はサーバーが確定。</strong>dotsは出題と結果コメントを担当します。投票は匿名で1端末1票。同数は引き分けです。</p><p className="intro-direction">今回の接続：dots → MCPの操作窓口 → Sites上のゲーム<br/>DevDayで紹介された「Sitesから接続済みプラグインを利用する機能」とは、別の構成です。</p></div>
     </section>
-    <footer className="intro-footer"><p>出典：<a href="https://openai.com/index/devday-2026-recap/" target="_blank" rel="noopener">OpenAI · DevDay 2026 Recap（2026年9月29日）</a> ／ <a href="https://modelcontextprotocol.io/docs/learn/server-concepts" target="_blank" rel="noopener">MCP公式 · サーバーとツール</a><br/>ゲームの仕組みは本デモの実装に基づきます。Sites・MCP自体がDevDayで初登場したという説明ではありません。</p><a className="intro-host-link" href="/host">司会用画面（所有者のみ）</a></footer>
+    <footer className="intro-footer"><p>出典：<a href="https://openai.com/index/devday-2026-recap/" target="_blank" rel="noopener">OpenAI · DevDay 2026 Recap（2026年9月29日）</a> ／ <a href="https://modelcontextprotocol.io/docs/learn/server-concepts" target="_blank" rel="noopener">MCP公式 · サーバーとツール</a><br/>ゲームの仕組みは本デモの実装に基づきます。Sites・MCP自体がDevDayで初登場したという説明ではありません。</p><div><a className="intro-host-link" href="https://github.com/masahide/minority-dots" target="_blank" rel="noopener">ソースコード</a><br/><a className="intro-host-link" href="/host">司会用画面（所有者のみ）</a></div></footer>
   </main>;
 }
